@@ -1,0 +1,1 @@
+https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&head=Skeleton_skeleton&expression=Neutral_light&facial_left=Left_Monocle_iron&facial_left_trim=Left_Monocle_Frame_Color_black&hat=Formal_Bowler_Hat_black&legs=Formal_Pants_black&shoes=Basic_Shoes_brown&neck=Bowtie_2_maroon&gloves=Gloves_white&clothes=Longsleeve_2_Buttoned_black
